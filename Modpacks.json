@@ -10,5 +10,11 @@
     "displayName": "Space",
     "iconKey": "space",
     "large":false
+  },
+  {
+    "uid": "03debdcc-86e7-4633-b41f-a291ff2e8d04",
+    "displayName": "Tema",
+    "iconKey": "tema",
+    "large":false
   }
 ]
