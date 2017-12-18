@@ -12,9 +12,27 @@
     "large":false
   },
   {
-    "uid": "03debdcc-86e7-4633-b41f-a291ff2e8d04",
-    "displayName": "Tema",
-    "iconKey": "tema",
+    "uid": "c2413123-3f8d-403b-a07d-3bf65ab3b45d",
+    "displayName": "Enigmatic 2",
+    "iconKey": "engimatic2",
+    "large":false
+  },
+  {
+    "uid": "c2413123-3f8d-403b-a07d-3bf65ab3b45d",
+    "displayName": "Enigmatic 2: Expert",
+    "iconKey": "engimaticexpert",
+    "large":false
+  },
+  {
+    "uid": "9e99da0b-3b58-4e9f-8bab-584ce255d462",
+    "displayName": "Astralis Horizons",
+    "iconKey": "astralhorizons",
+    "large":false
+  },
+  {
+    "uid": "88775e94-c988-4948-b158-7404482ed844",
+    "displayName": "Herdcraft 2",
+    "iconKey": "herdcraft2",
     "large":false
   }
 ]
