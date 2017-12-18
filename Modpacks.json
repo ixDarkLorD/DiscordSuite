@@ -13,13 +13,13 @@
   },
   {
     "uid": "c2413123-3f8d-403b-a07d-3bf65ab3b45d",
-    "displayName": "Enigmatic 2",
+    "displayName": "Enigmatica 2",
     "iconKey": "engimatic2",
     "large":false
   },
   {
     "uid": "c2413123-3f8d-403b-a07d-3bf65ab3b45d",
-    "displayName": "Enigmatic 2: Expert",
+    "displayName": "Enigmatica 2: Expert",
     "iconKey": "engimaticexpert",
     "large":false
   },
@@ -33,6 +33,12 @@
     "uid": "88775e94-c988-4948-b158-7404482ed844",
     "displayName": "Herdcraft 2",
     "iconKey": "herdcraft2",
+    "large":false
+  },
+  {
+    "uid": "f70dab8d-d8f3-4fa1-9011-f228a148c602",
+    "displayName": "Wikipack 3",
+    "iconKey": "wikipack3",
     "large":false
   }
 ]
