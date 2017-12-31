@@ -40,5 +40,11 @@
     "displayName": "WikiPack 3",
     "iconKey": "wikipack3",
     "large":false
+  },
+  {
+    "uid": "e444dabc-8ffc-4a8d-86df-2c13a0ba0526",
+    "displayName": "All The Mods 3",
+    "iconKey": "atm3",
+    "large":false
   }
 ]
