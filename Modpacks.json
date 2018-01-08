@@ -46,5 +46,11 @@
     "displayName": "All The Mods 3",
     "iconKey": "atm3",
     "large":false
+  },
+  {
+    "uid": "d9f618eb-cc46-4c71-ac2d-0cccd69977c3",
+    "displayName": "SnatchyBuckles",
+    "iconKey": "snatchybuckles",
+    "large":false
   }
 ]
