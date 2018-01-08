@@ -52,5 +52,11 @@
     "displayName": "SnatchyBuckles",
     "iconKey": "snatchybuckles",
     "large":false
+  },
+  {
+    "uid": "6ff8c603-fd0c-4643-af86-863d0d6dd7b0",
+    "displayName": "Ciprania",
+    "iconKey": "ciprania",
+    "large":false
   }
 ]
