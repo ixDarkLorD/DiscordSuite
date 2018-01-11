@@ -1,62 +1,8 @@
 [
   {
-    "uid": "a9e0911a-86f0-4e1b-87a1-908b1ee78704",
-    "displayName": "Resonant Rise",
-    "iconKey": "resonantrise",
-    "large":false
-  },
-  {
-    "uid": "330a9798-9bea-4a42-8d53-8946307dabb7",
-    "displayName": "Space",
-    "iconKey": "space",
-    "large":false
-  },
-  {
-    "uid": "c2413123-3f8d-403b-a07d-3bf65ab3b45d",
-    "displayName": "Enigmatica 2",
-    "iconKey": "engimatic2",
-    "large":false
-  },
-  {
-    "uid": "febd8e7f-5238-4a61-a0cc-8de9da88da55",
-    "displayName": "Enigmatica 2: Expert",
-    "iconKey": "engimaticexpert",
-    "large":false
-  },
-  {
-    "uid": "9e99da0b-3b58-4e9f-8bab-584ce255d462",
-    "displayName": "Astralis Horizons",
-    "iconKey": "astralhorizons",
-    "large":false
-  },
-  {
-    "uid": "88775e94-c988-4948-b158-7404482ed844",
-    "displayName": "Herdcraft 2",
-    "iconKey": "herdcraft2",
-    "large":false
-  },
-  {
-    "uid": "f70dab8d-d8f3-4fa1-9011-f228a148c602",
-    "displayName": "WikiPack 3",
-    "iconKey": "wikipack3",
-    "large":false
-  },
-  {
-    "uid": "e444dabc-8ffc-4a8d-86df-2c13a0ba0526",
-    "displayName": "All The Mods 3",
-    "iconKey": "atm3",
-    "large":false
-  },
-  {
-    "uid": "d9f618eb-cc46-4c71-ac2d-0cccd69977c3",
-    "displayName": "SnatchyBuckles",
-    "iconKey": "snatchybuckles",
-    "large":false
-  },
-  {
-    "uid": "6ff8c603-fd0c-4643-af86-863d0d6dd7b0",
-    "displayName": "Ciprania",
-    "iconKey": "ciprania",
+    "uid": "2095c2ee-f6a9-11e7-9055-e6bb04ea3939",
+    "displayName": "Road To The Future",
+    "iconKey": "rttf",
     "large":false
   }
 ]
